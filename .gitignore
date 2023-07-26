@@ -1,4 +1,4 @@
-
+.env
 .vscode
 .data
 node_modules
@@ -17,8 +17,6 @@ yarn.lock
 # production
 /build
 
-# misc
-.DS_Store
 .env
 .env.local
 .env.development.local
