@@ -4,9 +4,6 @@ import phone from '../assets/icons/phone.svg';
 import quote from '../assets/icons/quote.svg';
 import marker from '../assets/icons/marker.svg';
 
-
-
-
 // Images
 import chair from '../assets/images/chair.png';
 import appoinment from '../assets/images/appointment.png';

@@ -15,7 +15,6 @@ import ManageDoctors from '../../../Dashboard/ManageDoctors/ManageDoctors';
 import Payment from '../../../Dashboard/Payment/Payment';
 import DisplayError from '../../Shared/DisplayError/DisplayError';
 
-
 const Router = createBrowserRouter([
 
     {
